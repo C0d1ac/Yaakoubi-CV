@@ -49,6 +49,22 @@ p {
   font-size: 1.2rem;
 }
 
+.img-coding{
+  transition: transform .2s; /* Animation */
+}
+
+.img-cybersecurity{
+  transition: transform .2s; /* Animation */
+}
+
+.img-coding:hover{
+   transform: scale(1.5);
+}
+
+.img-cybersecurity:hover{
+  transform: scale(1.5);
+}
+
 .top-container {
   background-color: #E4F9F5;
   position: relative;
